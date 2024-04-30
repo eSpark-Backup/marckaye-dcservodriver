@@ -1,2 +1,3 @@
-# marckaye-dcservodriver
+# DC Servo Driver
+#### Client Name: Marc Kaye
  
